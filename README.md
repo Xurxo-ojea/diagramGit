@@ -2,4 +2,4 @@
 
 Primer ejemplo
 
-![](diagrams/diag01.svg)
+![alt](diagrams/diag01.drawio.svg)
