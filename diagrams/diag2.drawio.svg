@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="331px" height="241px" viewBox="-0.5 -0.5 331 241" content="&lt;mxfile&gt;&lt;diagram id=&quot;fiSKJnCeo4FrLYjpL6Jp&quot; name=&quot;Page-1&quot;&gt;zZTLbqMwFIafBildVAp2Jm2XJWmms5hVR5q1CwewZDDjOgnp0/cYHy6GRmp3swH787nL/iO+q9qfRjTlb52Bitg6ayO+jxjb3N3j14HLDBRGZh7FI3iR70BwTfQoM3gLDK3WysomhKmua0htwIQx+hya5VqFWRtRwAK8pEIt6V+Z2dLTe3Y38meQRdlnjrcP/qQSvTF18laKTJ8niD9FfGe0tn5VtTtQbnb9XLzf4crpUJiB2n7FgXmHk1BH6i1iW4WuSeOqsxdqefvv6EpKKmEKWUf8cd20w/bW6gbRpkMWWnsrlCycVYplgEE6RsBVQf8uj5wAUWGcRC13v1yYXKQw4NAliIjdynmWV+NmMIc9mIbvQ7zOrZE1c1YaN6X+fvYtxtNuF1m/M1gFuR0m+9kME3d9JagsRjNc/7k0cKXnwZQtTf/b3iqwpc7ilSv25ksteg+28mY7cvjEN+yZBZWzExgr8cE/+ou87254Qtd670tPNFrlqnu+ucRnxZNc15bkKma0P4hKKid0z6BO4KK64dpKOaMht0sI7dVXHA/agJoKGps0FzQhhy2pCcnpD9qeR23inFg50SW2IShID4sh8igZuCDV6LejOnVnE4nnTx8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="331px" height="241px" viewBox="-0.5 -0.5 331 241" content="&lt;mxfile&gt;&lt;diagram id=&quot;fiSKJnCeo4FrLYjpL6Jp&quot; name=&quot;Page-1&quot;&gt;3VdLc5swEP41zDQHz2Dh2snR2EnTQy/NoWcZFtBEICoJG/fXVzISDwOuWzsZpxce3672od0FfY63SssvHOfJNxYCdZAblo63dhCaLe7VVQP7Clh4swqIOQkraNoAL+QXGNA1aEFCEB1FyRiVJO+CAcsyCGQHw5yzXVctYrTrNccx9ICXANM++oOEMqnQe7Ro8GcgcWI9T+cPlSTFVtlkIhIcsl0L8h4db8UZk9VTWq6A6r2z+1KtexqR1oFxyOQ5C1C1YItpYXJz0JyqpX6uo5N7k/L8Z6FD8lPMY5I53lJJ3bxUVwUeEtP4RLK8ks1aMgmlnGBKYrMuULEBb2yqp1jffZy9LoOAFdlG2ihU5LmVWyzhOjTbFNbKtG/wolQoRLKVy7HtSciKjbKI3A2mOAvAOtvwWkVILEmg+9zqEp05CPkdS7j5FB1Umxc5zlouHeQ9tJyrDI4UWovcgGIhOmHldCJS0ne4Zaotx2y655iFrG81hJwJIkcMf/rnaG1RL4lXDJQUp2oCxsK967fZOX5er1pdnKop97ONyD9ME+yITEKOd/9ZF/yhMH9TqKHP0Pu11FVb6Bo1GWqiGKTf/dgft9GJ8Sw+3uYORGF/aRe1+/uNvQD5dfiXe9vTz8eDvWvhvZ462XY3V/M3nNNzqn5iWIf29m2OWCciaH2OUcc32gJXFcF0WR2q14djt2+O2OvKp8+UVkQP5CIi6tDv+RHLpCFTU2Ten3BKqKZhz0C3oK0qQSJTqpVq39ohlKMcY1ozF8X4gKUg+V6pmAVzw3UM2ftsXncNc/I8gyUt1oRmBsSGrcW15YbQqAfDaexrw50OshYB9R5/Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="0" y="0" width="330" height="240" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
@@ -9,32 +9,117 @@
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 330px; height: 240px; overflow: hidden;">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
                                 <p style="margin: 0px ; margin-top: 4px ; text-align: center">
-                                    <i>
-                                        &lt;&lt;Interface&gt;&gt;
-                                    </i>
-                                    <br/>
-                                    <b>
-                                        Interface
-                                    </b>
+                                    BankAccounbt
                                 </p>
                                 <hr size="1"/>
                                 <p style="margin: 0px ; margin-left: 4px">
-                                    + field1: Type
+                                    -double balance
                                     <br/>
-                                    + field2: Type
+                                    -static double interestRate
                                 </p>
                                 <hr size="1"/>
                                 <p style="margin: 0px ; margin-left: 4px">
-                                    + method1(Type): Type
+                                    +
+                                    <span>
+                                    </span>
+                                    <span class="pl-smi">
+                                        void
+                                    </span>
+                                    <span class="pl-en">
+                                        deposit
+                                    </span>
+                                    (
+                                    <span class="pl-smi">
+                                        double
+                                    </span>
+                                    <span class="pl-s1">
+                                        amount
+                                    </span>
+                                    )
                                     <br/>
-                                    + method2(Type, Type): Type
+                                    <span class="pl-k">
+                                        +
+                                        <span>
+                                        </span>
+                                    </span>
+                                    <span class="pl-smi">
+                                        void
+                                    </span>
+                                    <span class="pl-en">
+                                        withdraw
+                                    </span>
+                                    (
+                                    <span class="pl-smi">
+                                        double
+                                    </span>
+                                    <span class="pl-s1">
+                                        amount
+                                    </span>
+                                    )
+                                    <span>
+                                    </span>
+                                </p>
+                                <span class="pl-k">
+                                    +
+                                    <span>
+                                    </span>
+                                </span>
+                                <span class="pl-smi">
+                                    double
+                                </span>
+                                <span class="pl-en">
+                                    getBalance
+                                </span>
+                                ()
+                                <br/>
+                                <u>
+                                    <span class="pl-k">
+                                        +
+                                        <span>
+                                        </span>
+                                    </span>
+                                    <span class="pl-k">
+                                        static
+                                    </span>
+                                    <span class="pl-smi">
+                                        void
+                                    </span>
+                                    <span class="pl-en">
+                                        setInterestRate
+                                    </span>
+                                    (
+                                    <span class="pl-smi">
+                                        double
+                                    </span>
+                                    <span class="pl-s1">
+                                        rate
+                                    </span>
+                                    )
+                                </u>
+                                <br/>
+                                <u>
+                                    +
+                                    <span class="pl-k">
+                                        static
+                                    </span>
+                                    <span class="pl-smi">
+                                        double
+                                    </span>
+                                    <span class="pl-en">
+                                        getInterestRate
+                                    </span>
+                                    ()
+                                    <br/>
+                                </u>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <br/>
                                 </p>
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="0" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
-                    &lt;&lt;Interface&gt;&gt;...
+                    BankAccounbt...
                 </text>
             </switch>
         </g>
