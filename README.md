@@ -6,4 +6,4 @@ Primer ejemplo
 
 Segundo ejemplo
 
-![Segundo ejemplo de clase])(diagrams/diag2.drawio.svg)
+![Ejemplo](diagrams/diag2.drawio.svg)
