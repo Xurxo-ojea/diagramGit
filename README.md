@@ -7,3 +7,6 @@ Primer ejemplo
 Segundo ejemplo
 
 ![Ejemplo](diagrams/diag2.drawio.svg)
+
+
+![Ejemplo de ejercicio con kotlin ](diagrams/diag03.drawio.svg)
