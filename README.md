@@ -10,3 +10,6 @@ Segundo ejemplo
 
 
 ![Ejemplo de ejercicio con kotlin ](diagrams/diag03.drawio.svg)
+
+
+![Ejercicio de cliente factura](diagrams/diag04.drawio.svg)
